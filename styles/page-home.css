@@ -1539,7 +1539,7 @@ div.number:nth-child(3) > strong:nth-child(1)::before {
 a.btn.primary {
   background-color: grey;
   font-size: 3.5rem;
-  border: solid;
+  border: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -1667,5 +1667,5 @@ a.btn.primary {
 a.btn.primary {
   background-color: grey;
   font-size: 3.5rem;
-  border: solid;
+  border: none;
 }

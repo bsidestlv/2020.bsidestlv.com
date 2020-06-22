@@ -1862,7 +1862,7 @@ a.social:focus, a.social:hover {
 a.btn.primary {
   background-color: grey;
   font-size: 3.5rem;
-  border: solid;
+  border: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -1990,5 +1990,5 @@ a.btn.primary {
 a.btn.primary {
   background-color: grey;
   font-size: 3.5rem;
-  border: solid;
+  border: none;
 }
